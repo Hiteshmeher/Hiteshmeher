@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiteshmeher" alt="hiteshmeher" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif">
+<img align="right" alt="Coding" width="350" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif">
 
 <p align="left"> <a href="https://twitter.com/hiteshmeher000" target="blank"><img src="https://img.shields.io/twitter/follow/hiteshmeher000?logo=twitter&style=for-the-badge" alt="hiteshmeher000" /></a> </p>
 
