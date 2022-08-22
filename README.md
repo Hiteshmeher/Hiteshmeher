@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/hiteshmeher000" target="blank"><img src="https://img.shields.io/twitter/follow/hiteshmeher000?logo=twitter&style=for-the-badge" alt="hiteshmeher000" /></a> </p>
 
-- 🔭 I’m currently working for **Bridgelabz**
+- 🔭 I’m currently learning from **Bridgelabz**
 
 - 📫 How to reach me **meher.hitesh4@gmail.com**
 
