@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **meher.hitesh4@gmail.com**
 
-- 🌱 I’m currently learning <br> **    Java, JavaScript, Spring boot, Angular**
-
 - ⚡ Reality of life **Keep Smiling**
 
 <h3 align="left">Connect with me:</h3>
