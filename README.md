@@ -1,4 +1,4 @@
-[![MasterHead](https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/roadmap-to-become-a-full-stack-developer_Image_blogs.png)](https://rishavchanda.io)
+[![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hitesh Meher</h1>
 <h3 align="center">A learner for Fullstack developer from India</h3
 
@@ -9,7 +9,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/hiteshmeher000" target="blank"><img src="https://img.shields.io/twitter/follow/hiteshmeher000?logo=twitter&style=for-the-badge" alt="hiteshmeher000" /></a> </p>
-<img align="right" alt="Coding" width="350" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif">
+<img align="right" alt="Coding" width="500"  src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 🔭 I’m currently learning from **Bridgelabz**
 
